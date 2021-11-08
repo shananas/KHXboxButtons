@@ -118,11 +118,11 @@ assets:
     - name: CommandMenu/wi0command.2dd
 
 #font img
-- name: msg\jp\fontimage.bar
-  method: copy
-  source:
-  - name: msg\fontimage.bar
-- name: msg\us\fontimage.bar
-  method: copy
-  source:
-  - name: msg\fontimage.bar
+  - name: msg\jp\fontimage.bar
+    method: copy
+    source:
+     - name: msg\fontimage.bar
+  - name: msg\us\fontimage.bar
+    method: copy
+    source:
+    - name: msg\fontimage.bar
