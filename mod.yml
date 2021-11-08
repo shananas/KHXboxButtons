@@ -1,0 +1,117 @@
+title: Xbox Buttons
+originalAuthor: Shananas
+description: X Images done by Kayya
+assets:
+#CMD Menus
+  - name: field2d/jp/al0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/al0command.2dd
+  - name: field2d/jp/bb0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/bb0command.2dd
+  - name: field2d/jp/ca0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/ca0command.2dd
+  - name: field2d/jp/dc0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/dc0command.2dd
+  - name: field2d/jp/dc1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/dc1command.2dd
+  - name: field2d/jp/eh0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/eh0command.2dd
+  - name: field2d/jp/eh1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/eh1command.2dd
+  - name: field2d/jp/es0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/es0command.2dd
+  - name: field2d/jp/hb0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/hb0command.2dd
+  - name: field2d/jp/hb1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/hb1command.2dd
+  - name: field2d/jp/hb2command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/hb2command.2dd
+  - name: field2d/jp/he0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/he0command.2dd
+  - name: field2d/jp/he1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/he1command.2dd
+  - name: field2d/jp/lk0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/lk0command.2dd
+  - name: field2d/jp/lm0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/lm0command.2dd
+  - name: field2d/jp/mu0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/mu0command.2dd
+  - name: field2d/jp/nm0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/nm0command.2dd
+  - name: field2d/jp/nm1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/nm1command.2dd
+  - name: field2d/jp/po0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/po0command.2dd
+  - name: field2d/jp/tr0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tr0command.2dd
+  - name: field2d/jp/tt0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt0command.2dd
+  - name: field2d/jp/tt1command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt1command.2dd
+  - name: field2d/jp/tt2command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt2command.2dd
+  - name: field2d/jp/tt3command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt3command.2dd
+  - name: field2d/jp/tt4command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt4command.2dd
+  - name: field2d/jp/tt5command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt5command.2dd
+  - name: field2d/jp/tt6command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt6command.2dd
+  - name: field2d/jp/wi0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/wi0command.2dd
