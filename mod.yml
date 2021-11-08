@@ -125,4 +125,4 @@ assets:
 - name: msg\us\fontimage.bar
   method: copy
   source:
-  - name: msg\USfontimage.bar
+  - name: msg\fontimage.bar
