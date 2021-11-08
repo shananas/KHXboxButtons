@@ -2,6 +2,7 @@ title: Xbox Buttons
 originalAuthor: Shananas
 description: X Images done by Kayya
 assets:
+
 #CMD Menus
   - name: field2d/jp/al0command.2dd
     method: copy
@@ -115,3 +116,13 @@ assets:
     method: copy
     source:
     - name: CommandMenu/wi0command.2dd
+
+#font img
+- name: msg\jp\fontimage.bar
+  method: copy
+  source:
+  - name: msg\fontimage.bar
+- name: msg\us\fontimage.bar
+  method: copy
+  source:
+  - name: msg\USfontimage.bar
